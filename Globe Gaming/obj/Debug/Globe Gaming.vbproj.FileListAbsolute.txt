@@ -1,0 +1,3 @@
+C:\Users\shaza_k\source\repos\Globe Gaming\Globe Gaming\obj\Debug\Globe Gaming.vbproj.AssemblyReference.cache
+C:\Users\shaza_k\source\repos\Globe Gaming\Globe Gaming\obj\Debug\Globe Gaming.vbproj.SuggestedBindingRedirects.cache
+C:\Users\shaza_k\source\repos\Globe Gaming\Globe Gaming\obj\Debug\Globe Gaming.vbproj.CoreCompileInputs.cache

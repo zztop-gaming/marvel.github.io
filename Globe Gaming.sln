@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Globe Gaming", "Globe Gaming\Globe Gaming.vbproj", "{321D5C23-4EAC-4108-B437-D48899C4E03F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{860D5D92-2DE4-42F0-BEA1-C0E39115411D}"
+	ProjectSection(SolutionItems) = preProject
+		games.html = games.html
+		index.html = index.html
+		style.css = style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{62E338AA-D359-4171-BFE7-841FE6F6DDFD}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Documents\9th Grade\Globe Gaming\Globe.png = ..\..\..\OneDrive\Documents\9th Grade\Globe Gaming\Globe.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{321D5C23-4EAC-4108-B437-D48899C4E03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321D5C23-4EAC-4108-B437-D48899C4E03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321D5C23-4EAC-4108-B437-D48899C4E03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321D5C23-4EAC-4108-B437-D48899C4E03F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{62E338AA-D359-4171-BFE7-841FE6F6DDFD} = {860D5D92-2DE4-42F0-BEA1-C0E39115411D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE38F991-F45E-463F-89A0-36824C922704}
+	EndGlobalSection
+EndGlobal
